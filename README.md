@@ -1,1 +1,1 @@
-# Adroidconnectz-Sentiment-Analysis-Using-LSTM-RNN-and-Bidirectional-LSTM
+# Adroidconnectz-Sentiment Analysis on Hospital comments
